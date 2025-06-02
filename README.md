@@ -28,3 +28,8 @@ A group project that builds multi-class classification models to predict student
 
 ---
 
+👥 **Group Members**
+- Malvin Ferdinand Tanzil
+- Marcelline Cathrine Wilison  
+- Miecel Alicia Angel J
+- William Darma Wijaya
